@@ -5,7 +5,6 @@ local Hub = {
      [6299805723] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xxxxx",
    },
-   },
      [6612749452] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xvav",
    },
