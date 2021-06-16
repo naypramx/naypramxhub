@@ -5,6 +5,10 @@ local Hub = {
      [6299805723] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xxxxx",
    },
+   },
+     [6774188812] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xvav",
+   },
 }
 
 for i,v in pairs(Hub) do
