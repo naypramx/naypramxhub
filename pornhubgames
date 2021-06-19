@@ -1,1 +1,27 @@
-local Hub = { [6859865958] = { [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/naypramlovhee", }, [6299805723] = { [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xxxxx", }, [6612749452] = { [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xvav", }, } for i,v in pairs(Hub) do if i == game.PlaceId then print("CheckScript") loadstring(game:HttpGet(v[1]))() else end end
+if getgenv().SettingTheme == nil then
+	game:GetService("Players").LocalPlayer:Kick("Copy Theme")
+    else
+local Hub = {
+     [6859865958] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/naypramlovhee",
+   },
+     [6299805723] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xxxxx",
+   },
+     [6612749452] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xvav",
+   },
+     [6766156863] = {
+        [1] = "https://github.com/naypramx/youtubesim/blob/main/stest",
+   },
+}
+
+for i,v in pairs(Hub) do
+    if i == game.PlaceId then
+        print("CheckScript")
+           loadstring(game:HttpGet(v[1]))()
+        else
+        
+        end
+    end
+end
