@@ -1,6 +1,3 @@
-if getgenv().SettingTheme == nil then
-	game:GetService("Players").LocalPlayer:Kick("Copy Theme")
-    else
 local Hub = {
      [6859865958] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/naypramlovhee",
