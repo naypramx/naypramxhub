@@ -9,7 +9,7 @@ local Hub = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xvav",
    },
      [6766156863] = {
-        [1] = "https://github.com/naypramx/youtubesim/blob/main/stest",
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/stest",
    },
 }
 
