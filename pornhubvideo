@@ -10,7 +10,7 @@
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xvav",
    },
      [6766156863] = {
-        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/stest",
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xxzz",
    },
      [6904320123] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/harvestsim",
@@ -25,4 +25,3 @@ for i,v in pairs(Hub) do
         
         end
     end
-;
