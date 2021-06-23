@@ -12,6 +12,9 @@
      [6766156863] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/stest",
    },
+     [6904320123] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/xxz",
+   },
 }
 
 for i,v in pairs(Hub) do
@@ -22,3 +25,5 @@ for i,v in pairs(Hub) do
         
         end
     end
+
+https://raw.githubusercontent.com/naypramx/youtubesim/main/xxz
