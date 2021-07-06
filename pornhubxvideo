@@ -20,6 +20,9 @@
    [6265485611] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/gof",
    },
+   [5985165520] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/hee",
+   },
 }
 
 for i,v in pairs(Hub) do
