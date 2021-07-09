@@ -23,6 +23,9 @@
    [5985165520] = {
         [1] = "https://raw.githubusercontent.com/naypramx/youtubesim/main/hee",
    },
+   [5985165520] = {
+        [1] = "https://raw.githubusercontent.com/naypramx/Simulator/Script/Sabersim",
+   },
 }
 
 for i,v in pairs(Hub) do
@@ -33,6 +36,7 @@ for i,v in pairs(Hub) do
         
         end
     end
+
     
     -- Gui to Lua
 -- Version: 3.2
